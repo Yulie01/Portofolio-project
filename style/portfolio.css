@@ -1,7 +1,11 @@
-body {
-    background: goldenrod;
-}
 
 h1 {
-    color: white
+    color: white;
+    font-family: "playfair Display", serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
 }
