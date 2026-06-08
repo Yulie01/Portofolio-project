@@ -9,7 +9,7 @@ h1{
     color:black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
-    font-size: 90px;
+    font-size: 70px;
 }
 
 .hero {
@@ -80,6 +80,20 @@ h1{
 .about-paragraphs {
     margin:30px 0;
 
+}
+
+
+.content h1 {
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+.btn-branding {
+    background: var(--primary-color);
+    border-radius: 5px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
 }
 
 .email-link {
